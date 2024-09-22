@@ -1,0 +1,5 @@
+{
+  "alphabets": ["A", "B", "C"],
+  "numbers": [1, 2, 3],
+  "highestLowercase": "z"
+}
